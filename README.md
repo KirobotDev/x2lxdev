@@ -2,7 +2,7 @@
 
 # 🌿 x2lx.dev
 
-<img "https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="100%">
+<img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="70">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="100%">
+<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="90">
 
 ---
 
