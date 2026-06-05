@@ -1,55 +1,41 @@
-<p align="center">
-  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="900">
-</p>
+<div align="center">
 
-<table>
-<tr>
+# 🌿 x2lx.dev
 
-<td width="65%">
+<img "https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="100%">
 
-# 🖤 About Me
+</div>
 
-- 🐍 Learning Python
-- 🟢 Learning Node.js
-- 🎮 Gaming
-- 🌙 Dark Theme Enjoyer
-- 💻 Backend Development
+## 🌸 About Me
 
-</td>
+- 🎓 Étudiant en informatique
+- 🌍 France
+- 🎮 Joue principalement à Minecraft
+- 💻 Développeur passionné par le Web et les systèmes
+- 🚀 Toujours en train d'apprendre de nouvelles technologies
 
-<td width="35%" align="center">
+### 📚 J'apprends actuellement
 
-<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="220">
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,nodejs,java,git,vscode" />
+<p>
+   <img src="https://skillicons.dev/icons?i=,python,nodejs" 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="100%">
+
+---
+
+## 📊 Statistiques GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=x21xdev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x21xdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 Streak
+## 🌐 Contact
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=x21xdev&theme=tokyonight&hide_border=true" />
-</p>
+- Discord : `x2lx.qz`
+- Site web : soon
