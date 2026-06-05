@@ -22,19 +22,6 @@
 
 ---
 
-<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="90">
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Contact
 
 - Discord : `x2lx.qz`
