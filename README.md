@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg"
-       width="900"
-       height="180">
+  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="100%">
 </p>
 
 <table>
@@ -10,14 +8,15 @@
 
 ## À propos de moi
 
-- 💻 Java
-- 🐍 Python
+- 💻 Python
+- 🟢 Node.js
+
 
 </td>
 
 <td width="30%">
 
-<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="250">
+<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="180">
 
 </td>
 </tr>
