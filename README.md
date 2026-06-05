@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="600">
+  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg"
+       width="900"
+       height="180">
 </p>
 
 <table>
