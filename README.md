@@ -16,8 +16,8 @@
 
 ### 📚 Currently learning
 
-<p>
-   <img src="https://skillicons.dev/icons?i=,python,nodejs", align="center" />
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=,python,nodejs" />
 </p>
 
 ---
