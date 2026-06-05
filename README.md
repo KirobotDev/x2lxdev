@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="banner.png" width="100%">
 
-<!--
-**x2lxdev/x2lxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="70%">
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Java
+- 🐍 Python
+
+</td>
+
+<td width="30%">
+
+<img src="avatar.png" width="250">
+
+</td>
+</tr>
+</table>
