@@ -14,8 +14,8 @@
 - 💻 Develop website and backend -> (Python)
 - 🚀 I'm Always learning new techno
 
-### 📚 Currently learning
-
+<h1 align="center">Currently learning</h1>
+ 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=,python,nodejs" />
 </p>
