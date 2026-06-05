@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 x2lx.dev
+# 🏰 x2lx.dev
 
 <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="70">
 
