@@ -26,3 +26,5 @@
 
 - Discord : `x2lx.qz`
 - Site web : soon
+
+- Love
