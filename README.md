@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="100%">
+  <img src="https://i.pinimg.com/474x/1e/a3/85/1ea385254854323404bbbe8922a779b0.jpg" width="50%">
 </p>
 
 <table>
 <tr>
 <td width="60%">
 
-# 🖤 About Me
+# x2lx.dev
 
 - 🐍 Learning Python
 - 🟢 Learning Node.js
