@@ -13,7 +13,7 @@
 
 <td width="30%">
 
-<img src="avatar.png" width="250">
+<img src="https://i.pinimg.com/736x/9e/c4/f0/9ec4f0de05091cd146f6102413ff389f.jpg" width="250">
 
 </td>
 </tr>
