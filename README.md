@@ -8,13 +8,13 @@
 
 ## 🌸 About Me
 
-- 🎓 Étudiant en informatique
+- 🎓 Study in software dev
 - 🌍 France
-- 🎮 Joue principalement à Minecraft
-- 💻 Développeur passionné par le Web et les systèmes
-- 🚀 Toujours en train d'apprendre de nouvelles technologies
+- 🎮 Mainly principaly in mincraft
+- 💻 Develop website and backend -> (Python)
+- 🚀 I'm Always learning new techno
 
-### 📚 J'apprends actuellement
+### 📚 Currently learning
 
 <p>
    <img src="https://skillicons.dev/icons?i=,python,nodejs" 
